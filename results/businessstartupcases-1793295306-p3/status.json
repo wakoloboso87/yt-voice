@@ -1,0 +1,17 @@
+{
+  "job_id": "businessstartupcases-1793295306-p3",
+  "channel_id": "businessstartupcases",
+  "status": "success",
+  "total_shards": 17,
+  "empty_shards": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "generation_seconds": 1204.9,
+  "checked_at": "2026-10-29T18:33:51Z"
+}
