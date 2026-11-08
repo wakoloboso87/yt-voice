@@ -1,0 +1,10 @@
+{
+  "job_id": "knowyourrights1-1794095075-p0",
+  "channel_id": "knowyourrights1",
+  "status": "partial_failed",
+  "total_shards": 19,
+  "failed_shards": [
+    7
+  ],
+  "checked_at": "2026-11-08T02:26:35Z"
+}
